@@ -37,7 +37,7 @@ Team Name: Binary Fetch
 * [Dhamrendra]()
 * [Prince]()
 * [Puja]()
-* [Gautam](https://github.com/Gautam9123)
+* [Gautam]()
 
 
 ### Made at:

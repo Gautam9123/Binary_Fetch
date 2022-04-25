@@ -1,4 +1,4 @@
-<h1 align="center">Hack36</h1>
+<h1 align="center">Hack36 2022</h1>
 <p align="center">
 </p>
 
